@@ -1,0 +1,6 @@
+package: github.com/yunify/qingcloud_api_test
+import:
+- package: github.com/mitchellh/go-homedir
+- package: github.com/spf13/cobra
+- package: github.com/spf13/viper
+  version: ~1.0.0
